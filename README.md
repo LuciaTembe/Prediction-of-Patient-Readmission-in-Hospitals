@@ -1,7 +1,7 @@
 # Prediction-of-Patient-Readmission-in-Hospitals
 This project uses machine learning and deep learning techniques to predict patient readmission within hospitals. The research was conducted to improve hospital management and patient care by identifying high-risk readmissions
 
-# Overview
+## Overview
 The project focuses on predicting 30-day hospital readmission for diabetic patients, using machine learning and deep learning models. The study highlights the importance of hospital readmission rates as a metric for evaluating patient care effectiveness.
 
 # Dataset
